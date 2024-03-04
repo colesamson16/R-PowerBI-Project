@@ -1,2 +1,2 @@
 # R-PowerBI-Project
-Clean dataset using R and produce a dashboard using PowerBI 
+This repositry contains an R script to clean a dataset and produce a dashboard using PowerBI 
